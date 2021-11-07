@@ -1776,6 +1776,7 @@ id bounce
 id buttonPanel
 id button_pressme
 id cache_measures
+id calendarView
 id cancel_button
 id center
 id center_horizontal
