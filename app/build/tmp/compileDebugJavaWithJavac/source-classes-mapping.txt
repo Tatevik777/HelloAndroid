@@ -1,0 +1,7 @@
+com/example/helloandroid/MainActivity.java
+ com.example.helloandroid.MainActivity
+ com.example.helloandroid.MainActivity$1
+com/example/helloandroid/BuildConfig.java
+ com.example.helloandroid.BuildConfig
+com/example/helloandroid/Registration.java
+ com.example.helloandroid.Registration
